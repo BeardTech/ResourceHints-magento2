@@ -3,10 +3,8 @@
   "description": "Add `<link rel='preconnect'>`, `<link rel='dns-prefetch'>`, `<link rel='prefetch'>`, or `<link rel='preload'>` resource hints to Magento 2's head.",
   "version": "1.2.0",
   "require": {
-    "php": "7.*",
     "ext-openssl": "*",
-    "ext-json": "*",
-    "magento/framework": "101.*|102.*|103.*"
+    "ext-json": "*"
   },
   "type": "magento2-module",
   "license": "CC-BY-4.0",
